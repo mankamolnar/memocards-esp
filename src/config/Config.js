@@ -1,0 +1,5 @@
+export const Config = {
+  NEW_WORD_ADD_LIMIT: 80,
+  NUMBER_OF_WORDS_TO_ADD: 5,
+  GOOD_GUESS_RATIO_FILTERING_LIMIT: 60,
+};

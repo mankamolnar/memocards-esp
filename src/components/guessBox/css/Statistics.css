@@ -1,0 +1,26 @@
+@media screen and (max-width: 1190px) {
+  .statistics-left-panel {
+    display: none;
+  }
+
+  #statistics-right-panel {
+    position: relative;
+    margin-top: 30px;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 1190px) {
+  .statistics-left-panel {
+    position: absolute;
+    left: 0px;
+    top: 50px;
+  }
+
+  #statistics-right-panel {
+    position: absolute;
+    right: 0px;
+    top: 50px;
+    text-align: right;
+  }
+}
