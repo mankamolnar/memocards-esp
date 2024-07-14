@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memocards-esp/static/css/main.37118ac2.css",
+    "main.js": "/memocards-esp/static/js/main.ddf6bb48.js",
+    "index.html": "/memocards-esp/index.html",
+    "main.37118ac2.css.map": "/memocards-esp/static/css/main.37118ac2.css.map",
+    "main.ddf6bb48.js.map": "/memocards-esp/static/js/main.ddf6bb48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37118ac2.css",
+    "static/js/main.ddf6bb48.js"
+  ]
+}
